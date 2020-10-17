@@ -33,7 +33,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:sonvanebhargav@gmail.com'>sonvanebhargav@gmail.com</a>
+  📫 How to reach me: 
+  <a href="mailto:sonvanebhargav@gmail.com" >
+    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /> sonvanebhargav@gmail.com
+  </a>
 </p>
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/bhargavsonvane/bhargavsonvane"></a>
