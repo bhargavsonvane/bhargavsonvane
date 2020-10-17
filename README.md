@@ -28,3 +28,13 @@ Here are some ideas to get you started:
   </a>
  
 </p>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bhargavsonvane&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+<p align='center'>
+  📫 How to reach me: <a href='mailto:sonvanebhargav@gmail.com'>sonvanebhargav@gmail.com</a>
+</p>
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/bhargavsonvane/bhargavsonvane"></a>
+</p>
