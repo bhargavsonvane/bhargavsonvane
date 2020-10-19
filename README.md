@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align='center'>
 
-  <a href="https://www.linkedin.com/in/bhargavsonvane/" target="_blank">
+  <a href="https://www.linkedin.com/in/bhargav-sonvane/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
  
