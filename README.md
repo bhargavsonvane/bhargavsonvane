@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p align='center'>
-  A Cloud and AI enthusiast from Banglore, India.
+  A Cloud and AI enthusiast from Amdavad, India.
 </p>
 
 <p align='center'>
